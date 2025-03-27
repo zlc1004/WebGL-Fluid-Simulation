@@ -1644,3 +1644,5 @@ function hashCode (s) {
     }
     return hash;
 };
+
+document.addEventListener("DOMContentLoaded",(function(){function kobosh(){$("li.cr:nth-child(11) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1)").click();setTimeout(kobosh,2500)};kobosh();$(".main > ul:nth-child(2)").style.display="none";$(".close-button").style.display="none";}))
